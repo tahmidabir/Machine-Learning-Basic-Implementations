@@ -1,0 +1,3125 @@
+,class,cap-shape,cap-surface,cap-color,bruises,odor,stalk-shape,stalk-root,stalk-surface-above-ring,stalk-surface-below-ring,stalk-color-above-ring,stalk-color-below-ring,veil-type,veil-color,ring-number,ring-type,spore-print-color,population,habitat
+0,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+1,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+2,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+3,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+4,edible,5,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+5,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+6,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+7,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+8,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+9,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+10,edible,,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+11,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+12,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+13,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+14,edible,5,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+15,edible,4,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+16,edible,2,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+17,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+18,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+19,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+20,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+21,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+22,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+23,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+24,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+25,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+26,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+27,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+28,edible,2,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+29,edible,5,2,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+30,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+31,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+32,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+33,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,4
+34,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+35,edible,5,0,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+36,edible,4,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+37,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+38,edible,5,0,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+39,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+40,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+41,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,4
+42,edible,5,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+43,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+44,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+45,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+46,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+47,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+48,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,4
+49,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,4
+50,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,1
+51,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+52,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+53,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+54,poisonous,5,2,,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+55,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+56,edible,2,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+57,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+58,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+59,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,4
+60,edible,4,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+61,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+62,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+63,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+64,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+65,edible,2,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+66,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+67,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,1
+68,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+69,edible,5,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+70,edible,2,0,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+71,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+72,edible,2,0,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+73,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,4
+74,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+75,edible,2,2,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+76,edible,5,2,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+77,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,4
+78,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+79,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,1
+80,edible,5,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+81,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+82,edible,2,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+83,edible,5,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+84,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,1
+85,edible,5,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+86,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+87,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+88,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,1
+89,edible,4,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+90,edible,5,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+91,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+92,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+93,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+94,edible,5,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+95,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+96,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,1
+97,edible,,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+98,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+99,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+100,edible,5,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+101,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+102,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,1
+103,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,4
+104,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+105,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+106,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,1
+107,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+108,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+109,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+110,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+111,edible,4,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+112,edible,5,0,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+113,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+114,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+115,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,1
+116,edible,4,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+117,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,1
+118,edible,5,2,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+119,edible,4,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+120,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+121,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+122,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+123,edible,2,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+124,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+125,edible,5,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+126,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+127,edible,2,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+128,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+129,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+130,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+131,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+132,edible,2,2,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+133,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+134,edible,2,2,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+135,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+136,edible,2,0,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+137,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+138,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+139,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+140,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,4
+141,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+142,edible,4,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+143,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,4
+144,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+145,edible,5,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+146,edible,2,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+147,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+148,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+149,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+150,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+151,edible,5,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+152,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+153,edible,4,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+154,edible,5,2,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+155,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,1
+156,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+157,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+158,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+159,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+160,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+161,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+162,edible,5,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+163,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,1
+164,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+165,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,4
+166,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+167,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+168,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,1
+169,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+170,edible,5,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+171,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+172,edible,5,0,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+173,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+174,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,1
+175,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+176,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+177,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+178,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+179,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+180,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+181,edible,4,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+182,edible,2,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+183,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+184,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,4
+185,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+186,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+187,edible,2,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+188,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+189,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,4
+190,edible,5,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+191,edible,5,2,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+192,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+193,edible,2,2,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+194,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+195,edible,2,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+196,edible,0,2,,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+197,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+198,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+199,edible,2,2,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+200,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+201,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+202,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+203,edible,5,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+204,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,4
+205,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+206,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+207,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+208,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+209,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+210,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+211,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+212,edible,5,0,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+213,edible,5,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+214,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,1
+215,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+216,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+217,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+218,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+219,edible,4,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+220,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+221,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+222,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,1
+223,edible,2,0,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+224,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+225,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+226,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+227,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+228,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+229,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+230,edible,5,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+231,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+232,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,4
+233,edible,2,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+234,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+235,edible,5,0,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+236,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+237,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+238,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,1
+239,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,4
+240,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,4
+241,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+242,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+243,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+244,edible,2,0,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+245,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+246,edible,5,2,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+247,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+248,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,4
+249,edible,5,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+250,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,1
+251,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+252,edible,4,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+253,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+254,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+255,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+256,edible,2,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+257,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+258,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+259,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+260,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,1
+261,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+262,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+263,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+264,edible,2,0,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+265,edible,2,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+266,edible,2,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+267,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+268,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+269,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+270,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+271,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+272,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+273,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+274,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,4
+275,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,4
+276,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,1
+277,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+278,edible,2,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+279,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+280,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+281,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+282,edible,4,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+283,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+284,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+285,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,1
+286,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+287,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+288,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,4
+289,edible,2,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+290,edible,5,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+291,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+292,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+293,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+294,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+295,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+296,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+297,edible,5,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+298,edible,2,2,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+299,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+300,edible,5,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+301,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+302,edible,,2,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+303,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+304,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+305,edible,5,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+306,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+307,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+308,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,1
+309,edible,5,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+310,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+311,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+312,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+313,edible,5,0,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+314,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+315,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+316,edible,5,2,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+317,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+318,edible,5,0,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+319,edible,2,2,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+320,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+321,edible,2,0,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+322,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+323,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+324,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,4
+325,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+326,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+327,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+328,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+329,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+330,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+331,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+332,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+333,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+334,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+335,edible,5,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+336,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,1
+337,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+338,edible,5,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+339,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,1
+340,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+341,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+342,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+343,edible,2,0,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+344,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+345,edible,5,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+346,edible,5,0,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+347,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+348,edible,2,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+349,edible,5,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+350,edible,2,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+351,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,4
+352,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+353,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+354,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,4
+355,edible,4,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+356,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,4
+357,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+358,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,4
+359,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+360,edible,5,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+361,edible,5,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+362,edible,2,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+363,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,4
+364,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+365,edible,2,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+366,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,4
+367,edible,5,0,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+368,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+369,edible,5,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+370,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,1
+371,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,1
+372,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+373,edible,4,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+374,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+375,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+376,edible,4,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+377,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+378,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+379,edible,0,3,,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+380,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+381,edible,5,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+382,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+383,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+384,edible,5,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+385,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+386,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,4
+387,edible,5,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+388,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+389,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+390,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+391,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+392,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+393,edible,5,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+394,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,1
+395,edible,5,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+396,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+397,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+398,edible,5,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+399,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+400,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+401,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+402,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+403,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+404,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+405,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+406,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+407,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+408,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+409,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,4
+410,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+411,edible,5,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+412,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,4
+413,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,1
+414,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+415,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+416,edible,5,0,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+417,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+418,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+419,edible,2,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+420,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+421,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+422,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+423,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,1
+424,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+425,edible,5,2,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+426,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,4
+427,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+428,edible,5,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+429,edible,2,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+430,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+431,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,1
+432,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+433,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+434,edible,2,2,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+435,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+436,edible,5,0,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+437,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+438,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+439,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,4
+440,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+441,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+442,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,4
+443,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+444,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+445,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,1
+446,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+447,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,1
+448,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+449,edible,5,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+450,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+451,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+452,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+453,edible,5,0,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+454,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+455,edible,5,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+456,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+457,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+458,edible,,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,4
+459,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,4
+460,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+461,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,1
+462,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+463,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+464,edible,5,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+465,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,1
+466,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+467,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+468,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+469,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,4
+470,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+471,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+472,edible,2,0,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+473,edible,4,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+474,edible,2,2,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+475,edible,2,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+476,edible,5,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+477,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+478,edible,5,2,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+479,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+480,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+481,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+482,edible,2,2,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+483,edible,2,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+484,edible,2,2,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+485,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,1
+486,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+487,edible,4,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+488,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,4
+489,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,4
+490,edible,2,0,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+491,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+492,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+493,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,4
+494,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,1
+495,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+496,edible,2,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+497,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,1
+498,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+499,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+500,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+501,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+502,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+503,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+504,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+505,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+506,edible,5,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+507,edible,2,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+508,edible,5,0,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+509,edible,2,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+510,edible,2,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+511,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+512,edible,5,0,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+513,edible,4,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+514,edible,5,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+515,edible,5,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+516,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,4
+517,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+518,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+519,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+520,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+521,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+522,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,4
+523,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+524,edible,2,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+525,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+526,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,4
+527,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+528,edible,5,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+529,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,4
+530,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,4
+531,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+532,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+533,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,4
+534,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+535,edible,5,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+536,edible,0,3,,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+537,edible,4,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+538,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+539,edible,2,2,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+540,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+541,edible,2,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+542,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+543,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,1
+544,edible,2,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+545,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+546,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+547,edible,2,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+548,edible,5,0,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+549,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+550,edible,2,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+551,edible,5,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+552,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,4
+553,edible,2,2,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+554,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+555,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,4
+556,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+557,edible,5,0,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+558,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+559,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+560,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+561,edible,5,2,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+562,edible,5,2,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+563,edible,5,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+564,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+565,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+566,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+567,edible,2,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+568,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+569,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+570,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+571,edible,2,0,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+572,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+573,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+574,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,1
+575,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+576,edible,5,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+577,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+578,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,1
+579,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+580,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+581,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+582,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+583,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,1
+584,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,1
+585,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+586,edible,4,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+587,edible,2,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+588,edible,4,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+589,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+590,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+591,edible,5,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+592,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+593,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+594,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+595,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+596,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+597,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+598,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+599,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+600,edible,5,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+601,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,1
+602,edible,2,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+603,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,4
+604,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+605,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+606,edible,5,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+607,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,1
+608,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+609,edible,2,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+610,edible,2,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+611,edible,5,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+612,edible,2,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+613,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+614,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,1
+615,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+616,edible,2,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+617,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+618,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+619,edible,4,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+620,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,1
+621,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+622,edible,5,0,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+623,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,4
+624,edible,2,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+625,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+626,edible,2,0,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+627,edible,4,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+628,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+629,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+630,edible,2,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+631,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+632,edible,5,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+633,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,1
+634,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,1
+635,edible,,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+636,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,1
+637,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+638,edible,5,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+639,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+640,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+641,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,1
+642,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,4
+643,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,1
+644,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,4
+645,edible,5,2,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+646,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+647,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+648,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+649,edible,2,0,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+650,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+651,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+652,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,1
+653,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+654,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+655,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+656,edible,2,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+657,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+658,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,4
+659,edible,2,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+660,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+661,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+662,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+663,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+664,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+665,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+666,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,1
+667,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,1
+668,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,4
+669,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+670,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+671,edible,2,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+672,edible,2,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+673,edible,5,0,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+674,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,4
+675,edible,2,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+676,edible,2,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+677,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,1
+678,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,4
+679,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+680,edible,5,2,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+681,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+682,edible,5,0,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+683,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+684,edible,5,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+685,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+686,edible,2,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+687,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+688,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+689,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+690,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+691,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+692,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,4
+693,edible,2,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+694,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+695,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+696,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+697,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+698,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+699,edible,2,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+700,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+701,edible,2,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+702,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,4
+703,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+704,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,4
+705,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,4
+706,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+707,edible,4,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+708,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+709,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+710,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,4
+711,edible,2,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+712,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+713,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+714,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+715,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+716,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+717,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,4
+718,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,1
+719,edible,4,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+720,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,1
+721,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+722,edible,2,2,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+723,edible,5,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+724,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,1
+725,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+726,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+727,edible,5,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+728,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+729,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+730,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,1
+731,edible,5,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+732,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+733,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+734,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+735,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+736,edible,5,0,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+737,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+738,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+739,edible,5,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+740,edible,5,0,,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+741,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+742,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,1
+743,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+744,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,4
+745,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+746,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+747,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+748,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+749,edible,2,2,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+750,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,4
+751,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+752,edible,2,2,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+753,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+754,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+755,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+756,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,1
+757,edible,5,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+758,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+759,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,4
+760,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+761,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,1
+762,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+763,edible,5,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+764,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,4
+765,edible,2,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+766,edible,5,2,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+767,edible,2,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+768,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+769,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+770,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+771,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+772,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+773,edible,5,2,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+774,edible,2,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+775,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,1
+776,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+777,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,1
+778,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+779,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+780,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+781,edible,4,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+782,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+783,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+784,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+785,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+786,edible,5,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+787,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+788,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+789,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,4
+790,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+791,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,4
+792,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+793,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+794,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+795,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+796,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+797,edible,5,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+798,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+799,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,4
+800,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+801,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+802,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+803,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+804,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+805,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,1
+806,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+807,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,1
+808,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+809,edible,5,2,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+810,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+811,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+812,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+813,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+814,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+815,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+816,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,1
+817,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,1
+818,edible,5,2,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+819,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+820,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+821,edible,5,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+822,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+823,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+824,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,4
+825,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+826,edible,2,0,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+827,edible,2,0,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+828,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+829,edible,2,2,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+830,edible,4,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+831,edible,2,0,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+832,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,1
+833,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,1
+834,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,4
+835,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+836,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+837,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+838,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+839,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+840,edible,2,2,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+841,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+842,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+843,edible,4,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+844,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+845,edible,5,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+846,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+847,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+848,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+849,edible,5,2,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+850,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+851,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,1
+852,edible,4,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+853,edible,5,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+854,edible,4,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+855,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,4
+856,edible,2,2,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+857,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+858,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+859,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+860,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,4
+861,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+862,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,1
+863,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+864,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+865,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+866,edible,2,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+867,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,4
+868,edible,5,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+869,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+870,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,4
+871,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+872,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+873,edible,5,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+874,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+875,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,4
+876,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+877,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+878,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,1
+879,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+880,edible,2,0,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+881,edible,2,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+882,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+883,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+884,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,1
+885,edible,5,2,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+886,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+887,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,1
+888,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,4
+889,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+890,edible,5,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+891,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,1
+892,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+893,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+894,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+895,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,1
+896,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+897,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+898,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+899,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+900,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,4
+901,edible,5,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+902,edible,5,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+903,edible,5,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+904,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+905,edible,2,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+906,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+907,edible,5,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+908,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+909,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+910,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+911,edible,5,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+912,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+913,edible,2,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+914,edible,5,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+915,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+916,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+917,edible,5,3,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+918,edible,2,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+919,edible,5,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+920,edible,2,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+921,edible,5,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+922,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+923,edible,5,2,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+924,edible,2,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+925,edible,5,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+926,edible,5,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+927,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+928,edible,5,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+929,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+930,edible,5,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+931,edible,2,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+932,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+933,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+934,edible,5,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+935,edible,2,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+936,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+937,edible,5,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+938,edible,2,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+939,edible,5,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+940,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+941,edible,5,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+942,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+943,edible,5,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+944,edible,2,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+945,edible,2,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+946,edible,2,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+947,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+948,edible,2,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+949,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+950,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+951,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+952,edible,2,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+953,edible,5,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+954,edible,2,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+955,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+956,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+957,edible,5,3,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+958,edible,2,0,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+959,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+960,edible,5,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+961,edible,2,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+962,edible,5,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+963,edible,5,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+964,edible,2,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+965,edible,2,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+966,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+967,edible,5,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+968,edible,5,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+969,edible,5,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+970,edible,2,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+971,edible,5,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+972,edible,2,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+973,edible,5,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+974,edible,2,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+975,edible,5,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+976,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+977,edible,5,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+978,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+979,edible,2,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+980,edible,2,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+981,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+982,edible,2,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+983,edible,5,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+984,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+985,edible,5,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+986,edible,2,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+987,edible,5,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+988,edible,5,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+989,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+990,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+991,edible,5,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+992,edible,5,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+993,edible,2,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+994,edible,2,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+995,edible,2,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+996,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+997,edible,2,2,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+998,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+999,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1000,edible,5,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+1001,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,1
+1002,edible,2,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1003,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1004,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,1
+1005,edible,5,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1006,edible,5,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1007,edible,2,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1008,edible,5,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1009,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+1010,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+1011,edible,5,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1012,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,4
+1013,edible,2,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1014,edible,2,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1015,edible,2,0,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+1016,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,1
+1017,edible,5,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+1018,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1019,edible,5,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+1020,edible,2,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1021,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+1022,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+1023,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+1024,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1025,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1026,edible,5,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+1027,edible,2,2,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+1028,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+1029,edible,5,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1030,edible,5,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+1031,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1032,edible,5,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1033,edible,2,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1034,edible,5,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1035,edible,2,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1036,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+1037,edible,2,0,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+1038,edible,5,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+1039,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+1040,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,4
+1041,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,4
+1042,edible,5,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1043,edible,5,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+1044,edible,5,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1045,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+1046,edible,5,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1047,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+1048,edible,5,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+1049,edible,5,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1050,edible,5,0,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+1051,edible,5,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+1052,edible,5,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1053,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,4
+1054,edible,5,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1055,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+1056,edible,5,0,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+1057,edible,2,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1058,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+1059,edible,5,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1060,edible,2,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1061,edible,5,2,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+1062,edible,5,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1063,edible,5,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1064,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+1065,edible,2,0,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+1066,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+1067,edible,2,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1068,edible,5,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+1069,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,1
+1070,edible,5,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1071,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+1072,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+1073,edible,5,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+1074,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,4
+1075,edible,2,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1076,edible,2,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,5,5
+1077,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+1078,edible,2,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1079,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,4
+1080,edible,2,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1081,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+1082,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+1083,edible,2,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1084,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+1085,edible,2,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1086,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+1087,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+1088,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1089,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+1090,edible,4,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+1091,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,1
+1092,edible,2,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1093,edible,2,0,9,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+1094,edible,5,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1095,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1096,edible,5,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1097,edible,5,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1098,edible,5,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1099,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1100,edible,5,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1101,edible,2,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1102,edible,5,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1103,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1104,edible,2,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1105,edible,2,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1106,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1107,edible,2,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1108,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+1109,edible,5,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1110,edible,2,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1111,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+1112,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,1
+1113,edible,2,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1114,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,1
+1115,edible,2,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1116,edible,2,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1117,edible,2,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1118,edible,2,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1119,edible,5,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1120,edible,5,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1121,edible,2,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1122,edible,5,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1123,edible,5,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+1124,edible,2,2,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+1125,edible,5,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1126,edible,2,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1127,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+1128,edible,5,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1129,edible,5,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1130,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+1131,edible,5,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1132,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+1133,edible,2,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1134,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+1135,edible,5,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1136,edible,5,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+1137,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+1138,edible,2,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1139,edible,5,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1140,edible,2,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1141,edible,5,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+1142,edible,2,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1143,edible,5,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1144,edible,5,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1145,edible,5,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1146,edible,2,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1147,edible,5,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1148,edible,5,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1149,edible,2,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1150,edible,2,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1151,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,4
+1152,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+1153,edible,2,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1154,poisonous,5,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1155,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+1156,edible,5,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1157,edible,2,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1158,edible,2,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1159,edible,2,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1160,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+1161,edible,5,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1162,edible,5,0,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+1163,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,4
+1164,edible,5,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1165,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+1166,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1167,edible,5,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+1168,edible,2,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1169,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+1170,edible,5,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1171,edible,5,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+1172,edible,2,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1173,edible,5,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+1174,edible,5,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,4,5
+1175,edible,5,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+1176,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+1177,edible,2,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+1178,edible,5,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1179,edible,2,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,4
+1180,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,4
+1181,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,1
+1182,edible,2,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1183,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+1184,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+1185,edible,2,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1186,edible,2,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1187,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1188,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+1189,edible,5,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1190,edible,5,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1191,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+1192,edible,5,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+1193,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,4
+1194,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+1195,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+1196,edible,5,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1197,edible,0,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+1198,edible,5,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+1199,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+1200,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+1201,edible,5,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+1202,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+1203,edible,2,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1204,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1205,edible,2,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1206,edible,2,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1207,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+1208,edible,2,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1209,edible,5,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1210,edible,5,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1211,edible,2,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1212,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,1
+1213,edible,5,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1214,edible,5,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1215,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+1216,edible,5,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1217,edible,2,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1218,edible,2,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1219,edible,2,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1220,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,1
+1221,edible,5,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1222,edible,5,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1223,edible,2,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1224,edible,2,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1225,edible,5,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1226,edible,5,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+1227,edible,5,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1228,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+1229,edible,5,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+1230,edible,5,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1231,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1232,edible,2,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1233,edible,5,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1234,edible,2,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1235,edible,2,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1236,edible,2,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1237,edible,2,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1238,edible,5,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1239,edible,5,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1240,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1241,edible,5,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1242,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+1243,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+1244,edible,2,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1245,edible,5,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1246,edible,2,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1247,edible,5,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1248,edible,2,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1249,edible,2,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1250,edible,5,3,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+1251,edible,5,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+1252,edible,2,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1253,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+1254,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1255,edible,5,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1256,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1257,edible,2,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1258,edible,2,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1259,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1260,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1261,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1262,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+1263,edible,5,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1264,edible,5,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+1265,edible,2,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1266,edible,2,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1267,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1268,edible,5,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1269,edible,5,3,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+1270,edible,2,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1271,edible,5,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1272,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1273,edible,2,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1274,edible,5,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1275,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+1276,edible,5,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1277,edible,2,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1278,edible,5,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1279,edible,2,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1280,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+1281,edible,5,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1282,edible,5,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1283,edible,5,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1284,edible,5,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1285,edible,2,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1286,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+1287,edible,2,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1288,edible,5,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+1289,edible,2,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1290,edible,5,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+1291,edible,5,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1292,edible,5,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1293,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+1294,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1295,edible,5,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1296,edible,5,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+1297,edible,5,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1298,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,4
+1299,edible,2,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1300,edible,5,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1301,edible,5,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1302,edible,2,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1303,edible,5,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+1304,edible,2,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1305,edible,2,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1306,edible,2,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1307,edible,2,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1308,edible,2,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1309,edible,2,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1310,edible,2,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1311,edible,2,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1312,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1313,edible,5,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1314,edible,0,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+1315,edible,2,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1316,edible,2,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1317,edible,5,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+1318,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+1319,edible,5,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1320,edible,2,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+1321,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1322,edible,2,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1323,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+1324,edible,5,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1325,edible,2,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1326,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+1327,edible,2,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1328,edible,5,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1329,edible,2,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1330,edible,5,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1331,edible,2,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1332,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1333,edible,2,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1334,edible,2,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1335,edible,5,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+1336,edible,5,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1337,edible,5,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+1338,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,1
+1339,edible,2,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1340,edible,5,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1341,edible,2,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1342,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+1343,edible,2,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+1344,edible,2,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1345,edible,2,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1346,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+1347,edible,5,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1348,edible,5,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+1349,edible,5,3,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+1350,edible,5,3,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+1351,edible,2,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1352,edible,2,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1353,edible,2,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1354,edible,5,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1355,edible,2,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1356,edible,5,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1357,edible,2,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1358,edible,2,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1359,edible,2,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1360,edible,2,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1361,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1362,edible,2,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1363,edible,2,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1364,edible,5,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1365,edible,2,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1366,edible,5,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1367,edible,2,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1368,edible,5,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+1369,edible,2,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1370,edible,2,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1371,edible,5,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1372,edible,5,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1373,edible,0,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+1374,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+1375,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1376,edible,2,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1377,edible,2,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1378,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+1379,edible,2,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1380,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+1381,edible,2,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1382,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+1383,edible,2,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1384,edible,2,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1385,edible,5,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1386,edible,2,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1387,edible,5,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+1388,edible,5,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+1389,edible,5,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1390,edible,5,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+1391,edible,5,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1392,edible,2,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1393,edible,5,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1394,edible,2,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1395,edible,5,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+1396,edible,5,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1397,edible,5,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1398,edible,2,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1399,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1400,edible,2,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1401,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,1
+1402,edible,5,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+1403,edible,2,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1404,edible,5,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1405,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+1406,edible,5,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1407,edible,5,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1408,edible,2,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1409,edible,2,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1410,edible,5,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1411,edible,2,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1412,edible,2,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1413,edible,5,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1414,edible,2,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1415,edible,2,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1416,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,3
+1417,edible,5,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1418,edible,5,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1419,edible,2,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1420,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+1421,edible,5,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1422,edible,5,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+1423,edible,2,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1424,edible,5,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1425,edible,2,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1426,edible,2,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1427,edible,5,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1428,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,3,4
+1429,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1430,edible,5,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1431,edible,5,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+1432,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+1433,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+1434,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+1435,edible,5,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+1436,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+1437,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+1438,edible,2,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1439,edible,5,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1440,edible,5,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+1441,edible,5,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1442,edible,2,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1443,edible,2,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1444,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+1445,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1446,edible,5,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1447,edible,2,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1448,edible,5,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+1449,edible,2,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1450,edible,2,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1451,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+1452,edible,5,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1453,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+1454,edible,5,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1455,edible,2,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1456,edible,5,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1457,edible,5,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+1458,edible,5,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1459,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+1460,edible,5,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+1461,edible,5,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1462,edible,2,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1463,edible,5,2,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+1464,edible,5,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1465,edible,5,3,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+1466,edible,5,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+1467,edible,5,2,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+1468,edible,2,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1469,edible,5,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1470,edible,5,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+1471,edible,2,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1472,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1473,edible,2,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1474,edible,5,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1475,edible,2,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1476,edible,2,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1477,edible,5,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1478,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+1479,edible,5,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1480,edible,2,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1481,edible,5,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1482,edible,5,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1483,edible,5,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1484,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,2,5,1
+1485,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1486,edible,5,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1487,edible,2,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1488,edible,5,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1489,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1490,edible,2,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1491,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+1492,edible,2,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1493,edible,5,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1494,edible,5,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1495,edible,2,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1496,edible,2,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1497,edible,5,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1498,edible,5,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1499,edible,5,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1500,edible,2,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1501,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+1502,edible,2,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1503,edible,5,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1504,edible,2,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1505,edible,5,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+1506,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+1507,edible,5,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+1508,edible,5,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1509,edible,5,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+1510,edible,5,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1511,edible,2,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1512,edible,2,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1513,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+1514,edible,5,0,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,6,4,0
+1515,edible,2,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1516,edible,2,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1517,edible,2,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1518,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,1
+1519,edible,5,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1520,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+1521,edible,2,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1522,edible,5,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1523,edible,5,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1524,edible,5,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1525,edible,5,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1526,edible,5,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+1527,edible,2,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1528,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+1529,edible,5,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1530,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+1531,edible,2,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1532,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+1533,edible,2,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1534,edible,2,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1535,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1536,edible,5,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1537,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+1538,edible,5,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1539,edible,2,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1540,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+1541,edible,5,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1542,edible,5,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1543,edible,5,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1544,edible,5,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1545,edible,5,3,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+1546,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+1547,edible,2,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1548,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,5,1
+1549,edible,5,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1550,edible,2,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1551,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+1552,edible,,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1553,edible,2,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1554,edible,2,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1555,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+1556,edible,5,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1557,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+1558,edible,2,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1559,edible,2,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1560,edible,5,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1561,edible,2,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1562,edible,5,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1563,edible,5,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+1564,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+1565,edible,5,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+1566,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+1567,edible,5,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1568,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1569,edible,2,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1570,edible,2,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1571,edible,5,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1572,edible,5,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1573,edible,2,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1574,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,1
+1575,edible,2,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1576,edible,5,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1577,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1578,edible,2,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1579,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+1580,edible,2,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1581,edible,5,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+1582,edible,5,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1583,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+1584,edible,2,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1585,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+1586,edible,5,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+1587,edible,5,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1588,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,4
+1589,edible,2,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1590,edible,2,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1591,edible,5,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1592,edible,2,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1593,edible,2,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1594,edible,5,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1595,edible,2,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1596,edible,5,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+1597,edible,5,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1598,edible,2,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1599,edible,5,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,1
+1600,edible,5,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+1601,edible,2,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1602,edible,2,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1603,edible,2,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1604,edible,2,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1605,edible,2,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1606,edible,2,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1607,edible,5,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1608,edible,5,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+1609,edible,5,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1610,edible,5,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1611,edible,2,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1612,edible,5,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+1613,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+1614,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+1615,edible,5,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+1616,edible,5,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1617,edible,2,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1618,edible,5,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1619,edible,5,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1620,edible,5,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1621,edible,2,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1622,edible,2,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1623,edible,2,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1624,edible,5,0,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+1625,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+1626,edible,5,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1627,edible,5,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+1628,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+1629,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1630,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+1631,edible,2,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1632,edible,2,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1633,edible,2,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1634,edible,5,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1635,edible,2,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1636,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+1637,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1638,edible,2,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1639,edible,5,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1640,edible,5,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1641,edible,5,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+1642,edible,5,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+1643,edible,2,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1644,edible,2,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1645,edible,5,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1646,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+1647,edible,2,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1648,edible,5,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1649,edible,5,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1650,edible,5,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1651,edible,5,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1652,edible,5,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1653,edible,5,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1654,edible,5,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1655,edible,2,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1656,edible,5,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1657,edible,2,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1658,edible,2,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1659,edible,5,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1660,edible,2,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1661,edible,5,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1662,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,1
+1663,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+1664,edible,5,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1665,poisonous,5,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+1666,edible,5,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1667,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+1668,edible,5,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+1669,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1670,edible,5,3,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,3,1
+1671,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+1672,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,4
+1673,edible,5,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1674,edible,2,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1675,edible,5,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1676,edible,5,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1677,edible,2,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1678,edible,2,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1679,edible,5,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1680,edible,0,2,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+1681,edible,5,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1682,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+1683,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1684,edible,2,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1685,edible,2,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1686,edible,2,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1687,edible,2,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1688,edible,5,3,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+1689,edible,5,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+1690,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,4
+1691,edible,5,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+1692,edible,2,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1693,edible,2,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1694,edible,2,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1695,edible,5,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1696,edible,2,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1697,edible,2,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1698,edible,5,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1699,edible,5,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1700,edible,5,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+1701,edible,2,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1702,edible,2,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1703,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+1704,edible,5,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+1705,edible,5,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1706,edible,2,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1707,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+1708,edible,2,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1709,edible,5,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+1710,edible,5,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1711,edible,5,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1712,edible,5,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+1713,edible,5,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1714,edible,2,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1715,edible,5,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+1716,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,1
+1717,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,3
+1718,edible,2,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1719,edible,2,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1720,edible,2,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1721,edible,2,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1722,edible,5,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1723,edible,5,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1724,edible,0,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,2,3
+1725,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1726,edible,5,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1727,edible,2,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1728,edible,5,3,4,bruises is there,0,0,4,2,3,7,7,0,2,1,4,2,3,1
+1729,edible,5,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1730,edible,2,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1731,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1732,edible,2,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1733,edible,5,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1734,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1735,edible,5,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1736,edible,5,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1737,edible,5,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+1738,edible,2,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1739,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+1740,edible,5,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1741,edible,2,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1742,edible,2,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1743,edible,5,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1744,edible,2,3,4,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,1
+1745,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1746,edible,5,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1747,edible,2,0,4,no bruises,5,0,3,2,2,7,7,0,2,1,4,2,5,5
+1748,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+1749,edible,2,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1750,edible,5,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1751,edible,2,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,4
+1752,edible,5,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1753,edible,5,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1754,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1755,edible,2,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1756,edible,2,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1757,edible,5,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1758,edible,5,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+1759,edible,5,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1760,edible,5,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1761,edible,5,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1762,edible,2,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1763,edible,5,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+1764,edible,5,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1765,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+1766,edible,2,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1767,edible,5,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1768,edible,5,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+1769,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,5,1
+1770,edible,5,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1771,edible,5,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1772,edible,5,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1773,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+1774,edible,5,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+1775,edible,5,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1776,edible,5,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1777,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+1778,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1779,edible,5,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1780,edible,5,0,3,no bruises,5,0,3,2,2,7,7,0,2,1,4,3,4,5
+1781,edible,2,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1782,edible,5,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1783,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+1784,edible,0,2,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+1785,edible,5,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1786,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+1787,edible,5,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1788,edible,5,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1789,edible,5,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1790,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+1791,edible,2,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1792,edible,5,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1793,edible,2,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1794,edible,5,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1795,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1796,edible,5,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1797,edible,2,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1798,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1799,edible,2,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1800,edible,2,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+1801,edible,5,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1802,edible,5,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+1803,edible,5,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+1804,edible,2,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+1805,edible,2,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+1806,edible,2,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1807,edible,5,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+1808,edible,5,3,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+1809,edible,5,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1810,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1811,edible,2,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+1812,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1813,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+1814,edible,5,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1815,edible,5,3,9,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+1816,poisonous,5,0,3,no bruises,2,0,1,1,1,4,0,0,2,1,2,1,5,1
+1817,edible,2,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1818,edible,2,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1819,edible,5,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+1820,edible,2,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1821,edible,5,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1822,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1823,edible,2,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+1824,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,3,2,1
+1825,edible,2,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1826,edible,5,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+1827,edible,2,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1828,edible,5,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1829,edible,5,3,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+1830,edible,5,3,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+1831,edible,5,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+1832,edible,2,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1833,edible,5,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+1834,edible,5,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+1835,edible,5,0,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+1836,edible,5,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+1837,edible,2,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1838,edible,5,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+1839,edible,5,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1840,edible,5,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1841,edible,2,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1842,edible,5,3,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+1843,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+1844,edible,5,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+1845,edible,2,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1846,edible,2,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1847,edible,5,3,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+1848,edible,2,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+1849,edible,5,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+1850,edible,2,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+1851,edible,5,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1852,edible,5,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+1853,edible,5,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+1854,edible,5,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+1855,edible,5,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+1856,edible,5,0,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+1857,edible,5,0,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+1858,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+1859,edible,5,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1860,edible,5,0,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+1861,edible,5,3,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+1862,edible,5,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1863,edible,5,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+1864,edible,5,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1865,edible,5,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+1866,edible,5,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+1867,edible,5,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1868,edible,5,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1869,edible,5,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1870,edible,5,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1871,edible,2,0,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+1872,edible,2,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1873,edible,2,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1874,edible,5,3,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+1875,edible,5,0,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+1876,edible,5,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+1877,edible,5,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+1878,edible,2,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1879,edible,5,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+1880,edible,5,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1881,edible,5,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1882,edible,5,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+1883,edible,5,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+1884,edible,2,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+1885,edible,2,0,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,3,4,0
+1886,edible,2,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1887,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+1888,edible,2,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+1889,edible,5,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+1890,edible,5,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1891,edible,5,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1892,edible,5,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1893,edible,5,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1894,edible,5,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1895,edible,5,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+1896,edible,5,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+1897,edible,2,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1898,edible,2,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1899,edible,5,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1900,edible,2,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+1901,edible,5,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1902,edible,2,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1903,edible,2,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1904,edible,5,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1905,edible,2,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1906,edible,2,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1907,edible,5,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+1908,edible,2,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1909,edible,2,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1910,edible,5,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+1911,edible,5,3,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+1912,edible,5,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+1913,edible,5,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1914,edible,2,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1915,edible,2,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,5,1
+1916,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1917,edible,2,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1918,edible,2,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1919,edible,2,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+1920,edible,5,0,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+1921,edible,2,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1922,edible,5,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1923,edible,5,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1924,edible,5,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+1925,edible,2,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+1926,edible,5,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1927,edible,5,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1928,edible,2,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1929,edible,2,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1930,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+1931,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,1
+1932,edible,5,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+1933,edible,2,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1934,edible,5,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1935,edible,5,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1936,edible,2,2,8,bruises is there,3,1,1,2,2,7,7,0,2,1,4,6,4,0
+1937,edible,5,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1938,edible,5,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+1939,edible,5,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+1940,edible,5,3,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+1941,edible,2,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+1942,edible,5,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+1943,edible,2,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1944,edible,2,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1945,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+1946,edible,2,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+1947,edible,5,3,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+1948,edible,5,3,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+1949,edible,5,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+1950,edible,5,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+1951,edible,5,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+1952,edible,5,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+1953,edible,5,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+1954,edible,5,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+1955,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+1956,edible,5,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1957,edible,5,3,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+1958,edible,5,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+1959,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1960,edible,5,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+1961,edible,5,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+1962,edible,5,0,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+1963,edible,2,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1964,edible,2,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1965,edible,2,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1966,edible,5,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+1967,edible,2,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1968,edible,2,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+1969,edible,2,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+1970,edible,5,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1971,edible,2,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+1972,poisonous,5,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+1973,edible,5,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+1974,edible,2,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1975,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,1
+1976,edible,5,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+1977,edible,5,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+1978,edible,2,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+1979,edible,5,0,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+1980,edible,2,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+1981,edible,5,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+1982,edible,5,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+1983,edible,5,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1984,edible,5,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+1985,edible,5,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+1986,edible,5,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+1987,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+1988,edible,5,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+1989,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+1990,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+1991,edible,5,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+1992,edible,2,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+1993,edible,5,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+1994,edible,5,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1995,edible,5,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+1996,edible,2,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+1997,edible,2,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+1998,edible,5,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+1999,edible,5,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+2000,edible,5,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2001,edible,5,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2002,edible,2,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+2003,edible,5,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2004,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+2005,edible,5,3,9,bruises is there,3,0,4,2,3,7,7,0,2,1,4,3,3,1
+2006,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+2007,edible,2,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+2008,edible,2,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+2009,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+2010,edible,5,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+2011,edible,5,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+2012,edible,5,0,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+2013,edible,2,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+2014,edible,5,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+2015,edible,2,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+2016,edible,2,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+2017,edible,2,2,9,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+2018,edible,2,0,8,bruises is there,0,1,1,2,2,7,7,0,2,1,4,3,4,0
+2019,edible,2,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+2020,edible,5,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2021,edible,5,3,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2022,edible,5,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2023,edible,5,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+2024,edible,5,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2025,edible,5,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2026,edible,5,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,0,1
+2027,edible,5,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2028,edible,5,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,0,1
+2029,edible,0,3,8,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,3,3
+2030,edible,5,3,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2031,edible,2,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+2032,edible,5,0,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2033,edible,2,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2034,edible,5,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2035,edible,5,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+2036,edible,5,2,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+2037,edible,5,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+2038,edible,5,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+2039,edible,5,3,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2040,edible,2,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2041,edible,2,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2042,edible,5,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+2043,edible,2,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+2044,edible,5,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+2045,edible,5,3,9,bruises is there,0,0,4,2,3,7,7,0,2,1,4,3,3,4
+2046,edible,5,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2047,edible,5,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+2048,edible,5,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2049,edible,2,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2050,edible,5,0,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+2051,edible,5,3,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,3,3
+2052,edible,5,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+2053,edible,2,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+2054,edible,2,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2055,edible,2,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+2056,edible,5,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2057,edible,5,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2058,edible,5,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+2059,edible,5,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,2,2,3
+2060,edible,2,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+2061,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+2062,edible,2,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+2063,edible,5,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2064,edible,5,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+2065,edible,5,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2066,edible,5,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2067,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,5
+2068,edible,2,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+2069,edible,5,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2070,edible,2,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2071,edible,5,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2072,edible,5,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2073,edible,5,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2074,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+2075,edible,5,2,9,bruises is there,3,0,2,2,2,7,7,0,2,1,4,2,2,3
+2076,edible,5,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2077,edible,2,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2078,edible,5,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+2079,edible,5,3,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2080,edible,5,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+2081,edible,2,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+2082,edible,5,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2083,edible,2,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2084,edible,2,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+2085,edible,2,0,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+2086,edible,2,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+2087,edible,5,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2088,edible,5,0,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2089,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+2090,edible,5,3,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2091,edible,5,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+2092,edible,0,2,8,bruises is there,0,0,2,2,2,7,7,0,2,1,4,3,3,3
+2093,edible,5,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+2094,edible,2,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+2095,edible,5,3,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2096,edible,2,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2097,edible,5,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+2098,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+2099,edible,5,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+2100,edible,5,3,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2101,edible,2,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2102,edible,5,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2103,edible,5,0,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2104,edible,2,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2105,edible,5,0,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2106,edible,2,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2107,edible,5,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2108,edible,5,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2109,edible,2,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2110,edible,5,0,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+2111,edible,5,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2112,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+2113,edible,5,0,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2114,edible,5,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2115,edible,5,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2116,edible,5,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2117,edible,5,3,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2118,edible,5,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2119,edible,5,3,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+2120,edible,5,0,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2121,edible,2,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2122,edible,2,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2123,edible,5,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2124,edible,2,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2125,edible,5,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2126,edible,5,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2127,edible,5,3,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2128,poisonous,5,0,3,no bruises,2,0,1,1,1,0,0,0,2,1,2,1,5,1
+2129,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+2130,edible,5,0,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2131,edible,5,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+2132,edible,5,3,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2133,edible,2,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2134,edible,5,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2135,edible,5,3,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2136,edible,5,3,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2137,edible,5,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2138,edible,5,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2139,edible,5,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2140,edible,5,0,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2141,edible,5,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2142,edible,5,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2143,edible,5,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2144,edible,2,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2145,edible,2,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2146,edible,5,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2147,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+2148,edible,2,0,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2149,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,1
+2150,edible,5,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2151,edible,2,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2152,edible,5,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2153,edible,2,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2154,edible,5,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2155,edible,5,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2156,edible,5,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2157,edible,2,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2158,edible,2,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2159,edible,5,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2160,edible,5,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2161,edible,5,0,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2162,edible,2,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2163,edible,5,3,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2164,edible,2,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2165,edible,5,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2166,edible,5,3,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2167,edible,5,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2168,edible,5,3,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2169,edible,5,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2170,edible,5,3,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2171,edible,5,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2172,edible,2,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2173,edible,5,3,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+2174,edible,5,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2175,edible,2,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2176,edible,2,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2177,edible,5,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2178,poisonous,5,0,3,no bruises,2,0,1,1,1,4,6,0,2,1,2,1,5,0
+2179,edible,5,3,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2180,edible,5,0,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2181,edible,5,3,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2182,edible,2,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2183,edible,5,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2184,edible,2,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2185,edible,2,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2186,edible,2,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2187,edible,5,0,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2188,edible,5,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2189,edible,5,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2190,edible,5,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2191,edible,5,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2192,edible,5,2,3,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+2193,edible,5,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2194,edible,2,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2195,edible,5,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2196,edible,2,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2197,edible,5,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2198,edible,5,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2199,edible,2,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2200,edible,5,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+2201,edible,5,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2202,edible,2,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2203,edible,2,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2204,edible,5,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2205,edible,5,0,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2206,edible,5,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2207,edible,5,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2208,edible,2,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2209,edible,5,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2210,poisonous,5,2,5,no bruises,1,0,1,2,2,7,7,0,2,1,4,3,3,0
+2211,edible,5,3,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2212,edible,2,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2213,edible,5,3,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2214,edible,2,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2215,edible,5,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2216,edible,5,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2217,edible,2,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2218,edible,5,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2219,edible,5,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2220,edible,5,0,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2221,edible,2,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2222,edible,5,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2223,edible,5,3,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2224,edible,2,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2225,edible,5,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2226,edible,5,0,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2227,edible,5,0,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+2228,edible,5,3,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2229,edible,5,0,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+2230,edible,5,3,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2231,edible,5,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2232,edible,5,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2233,edible,2,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2234,edible,2,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2235,edible,5,3,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2236,edible,5,3,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2237,edible,2,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+2238,poisonous,5,0,3,no bruises,2,0,1,1,1,0,6,0,2,1,2,1,5,4
+2239,edible,5,0,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2240,edible,5,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2241,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+2242,edible,2,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2243,edible,5,0,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2244,edible,5,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2245,edible,5,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+2246,edible,5,3,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2247,edible,5,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,0,1
+2248,edible,5,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2249,edible,2,0,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2250,edible,5,3,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2251,edible,2,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2252,edible,2,0,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+2253,edible,2,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2254,edible,5,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2255,edible,2,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2256,edible,2,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2257,edible,5,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2258,edible,5,3,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2259,edible,5,3,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2260,edible,2,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+2261,edible,5,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2262,edible,2,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2263,edible,5,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2264,edible,5,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2265,edible,5,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2266,edible,2,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+2267,edible,5,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2268,edible,5,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2269,edible,5,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2270,edible,2,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2271,edible,2,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+2272,edible,2,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2273,edible,5,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2274,edible,2,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2275,edible,5,3,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2276,edible,5,0,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2277,edible,5,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2278,edible,5,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2279,edible,2,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2280,edible,5,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2281,edible,5,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2282,edible,5,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2283,edible,2,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2284,edible,5,3,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2285,poisonous,5,2,5,no bruises,1,0,1,2,2,7,7,0,2,1,4,2,4,0
+2286,edible,2,3,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2287,edible,2,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2288,poisonous,2,2,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+2289,edible,5,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2290,edible,5,3,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2291,edible,5,3,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2292,edible,5,3,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2293,edible,5,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2294,edible,5,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2295,edible,2,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+2296,edible,5,3,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2297,edible,5,0,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+2298,edible,5,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2299,edible,5,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2300,edible,5,3,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2301,edible,5,3,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2302,edible,5,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2303,edible,5,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2304,edible,5,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2305,edible,5,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2306,edible,2,3,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2307,edible,5,0,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2308,edible,5,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2309,edible,5,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2310,edible,5,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2311,edible,2,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2312,edible,2,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2313,edible,5,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2314,edible,5,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2315,edible,2,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2316,edible,5,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2317,edible,2,3,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2318,edible,5,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2319,edible,2,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2320,edible,5,3,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2321,edible,5,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2322,edible,5,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2323,edible,5,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2324,edible,5,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2325,edible,5,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2326,edible,2,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2327,edible,2,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2328,edible,5,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2329,edible,5,3,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2330,edible,2,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2331,edible,5,3,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2332,edible,2,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2333,edible,5,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2334,edible,5,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2335,edible,5,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2336,edible,5,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2337,edible,2,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2338,edible,5,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2339,edible,5,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2340,edible,5,3,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2341,edible,5,3,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2342,edible,5,0,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2343,edible,2,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2344,edible,5,3,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2345,edible,5,3,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2346,edible,5,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+2347,edible,2,3,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2348,edible,2,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+2349,edible,2,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2350,edible,5,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2351,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,3,5
+2352,edible,5,3,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2353,edible,2,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2354,edible,5,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2355,edible,5,0,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2356,edible,2,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+2357,edible,5,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2358,edible,5,3,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2359,edible,5,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2360,edible,5,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2361,edible,2,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2362,edible,5,3,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2363,edible,5,3,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2364,edible,5,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2365,edible,2,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2366,edible,5,0,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2367,edible,2,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+2368,edible,5,3,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+2369,edible,5,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2370,edible,5,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2371,edible,5,0,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2372,edible,2,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2373,edible,5,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2374,edible,5,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2375,poisonous,2,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+2376,edible,5,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2377,edible,2,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,3,1
+2378,edible,5,2,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,3,1
+2379,edible,5,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2380,edible,2,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2381,edible,5,0,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2382,edible,5,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2383,edible,2,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2384,edible,5,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2385,poisonous,5,0,3,no bruises,2,0,1,1,1,4,4,0,2,1,2,1,5,0
+2386,edible,5,3,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2387,edible,5,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+2388,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,1
+2389,edible,5,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2390,edible,2,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2391,edible,5,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2392,edible,5,3,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2393,edible,5,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2394,edible,2,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2395,edible,2,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2396,edible,5,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2397,edible,2,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2398,edible,5,3,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2399,edible,5,0,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2400,poisonous,5,2,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,4,1
+2401,edible,2,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2402,edible,5,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2403,edible,2,3,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2404,edible,2,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2405,edible,5,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2406,edible,5,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2407,edible,5,0,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2408,edible,5,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2409,edible,2,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2410,edible,5,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2411,edible,2,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2412,edible,5,3,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2413,edible,5,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2414,edible,5,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2415,edible,5,3,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2416,edible,2,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2417,edible,5,3,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2418,edible,5,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2419,edible,2,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2420,edible,5,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2421,edible,5,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2422,edible,5,3,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2423,edible,2,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2424,edible,5,0,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2425,edible,2,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2426,poisonous,5,2,5,no bruises,1,0,1,2,2,7,7,0,2,1,4,2,4,0
+2427,edible,5,0,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2428,edible,2,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2429,edible,5,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2430,edible,2,0,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2431,edible,5,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2432,edible,5,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2433,edible,5,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2434,edible,5,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+2435,edible,5,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2436,edible,2,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2437,edible,5,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2438,edible,2,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2439,edible,2,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+2440,edible,5,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2441,edible,5,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2442,edible,5,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2443,poisonous,5,0,3,no bruises,2,0,1,1,1,0,0,0,2,1,2,1,5,1
+2444,edible,5,3,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2445,edible,5,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2446,edible,5,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2447,edible,2,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2448,edible,2,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2449,edible,2,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2450,edible,2,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2451,edible,5,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2452,edible,5,0,3,no bruises,5,1,3,2,0,7,7,0,2,1,0,3,0,1
+2453,edible,5,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2454,edible,5,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2455,edible,2,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2456,edible,5,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2457,edible,5,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2458,edible,5,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2459,edible,5,3,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2460,edible,5,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2461,edible,2,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2462,edible,5,3,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2463,edible,5,3,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2464,edible,2,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2465,edible,5,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2466,edible,2,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2467,edible,5,3,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2468,edible,5,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2469,edible,5,3,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2470,edible,2,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2471,edible,5,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2472,edible,5,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2473,edible,5,3,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2474,edible,5,3,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2475,edible,5,3,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2476,edible,5,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2477,edible,5,3,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2478,poisonous,2,3,4,bruises is there,6,0,3,2,2,7,7,0,2,1,4,2,3,5
+2479,edible,5,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+2480,edible,5,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2481,edible,5,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2482,poisonous,5,2,5,no bruises,1,0,1,2,2,7,7,0,2,1,4,3,3,0
+2483,edible,5,3,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2484,edible,5,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2485,edible,5,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2486,edible,5,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2487,edible,5,2,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+2488,edible,2,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2489,edible,5,3,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2490,edible,5,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2491,edible,5,0,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2492,edible,5,3,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2493,edible,5,3,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2494,edible,5,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2495,poisonous,2,3,8,bruises is there,6,0,3,2,2,7,7,0,2,1,4,3,4,5
+2496,edible,2,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2497,edible,5,0,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2498,edible,5,0,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2499,edible,5,3,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2500,edible,2,2,8,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+2501,edible,5,0,4,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,0,1
+2502,edible,5,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2503,edible,2,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2504,edible,5,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2505,edible,5,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2506,edible,5,3,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2507,edible,2,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2508,edible,5,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2509,edible,2,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2510,edible,2,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2511,edible,5,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2512,poisonous,5,2,8,no bruises,1,0,1,2,2,7,7,0,2,1,4,3,3,0
+2513,edible,2,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2514,edible,2,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2515,edible,2,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2516,edible,5,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2517,edible,5,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2518,edible,2,2,8,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+2519,edible,5,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2520,edible,5,0,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2521,edible,2,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2522,edible,2,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2523,edible,5,3,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2524,edible,5,3,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2525,edible,5,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2526,edible,5,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2527,edible,5,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2528,edible,5,3,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2529,edible,2,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2530,edible,5,3,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2531,edible,5,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2532,edible,5,3,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2533,poisonous,5,0,3,no bruises,2,0,1,1,1,4,0,0,2,1,2,1,5,4
+2534,edible,2,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2535,edible,5,3,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2536,poisonous,5,0,3,no bruises,2,0,1,1,1,6,0,0,2,1,2,1,4,0
+2537,edible,5,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2538,edible,5,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2539,poisonous,5,0,3,no bruises,2,0,1,1,1,0,4,0,2,1,2,1,5,0
+2540,poisonous,5,0,5,no bruises,1,0,1,2,2,7,7,0,2,1,4,3,3,0
+2541,edible,5,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2542,edible,2,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2543,edible,5,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2544,edible,5,3,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2545,edible,5,3,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2546,edible,2,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2547,edible,5,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2548,edible,5,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2549,edible,5,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2550,edible,5,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2551,edible,2,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2552,edible,2,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2553,edible,2,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2554,edible,5,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2555,edible,5,3,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2556,edible,5,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2557,edible,2,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2558,edible,5,3,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2559,edible,5,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2560,poisonous,5,0,8,no bruises,1,0,1,2,2,7,7,0,2,1,4,2,4,0
+2561,edible,2,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2562,edible,5,3,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2563,edible,5,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2564,edible,2,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2565,edible,5,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2566,poisonous,5,0,3,no bruises,2,0,1,1,1,0,6,0,2,1,2,1,5,0
+2567,edible,5,3,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2568,edible,2,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2569,edible,2,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2570,edible,5,0,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2571,poisonous,5,0,3,no bruises,2,0,1,1,1,0,6,0,2,1,2,1,4,1
+2572,edible,5,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2573,edible,5,3,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2574,edible,5,3,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+2575,edible,5,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2576,edible,5,3,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2577,edible,5,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2578,edible,5,0,,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2579,edible,5,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2580,edible,5,3,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2581,edible,5,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2582,edible,2,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2583,edible,2,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2584,edible,2,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2585,edible,5,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2586,edible,5,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2587,edible,5,0,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2588,edible,2,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2589,edible,2,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2590,edible,5,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2591,edible,5,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2592,edible,2,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2593,edible,2,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2594,poisonous,5,0,3,no bruises,2,0,1,1,1,0,4,0,2,1,2,1,4,4
+2595,edible,5,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2596,edible,5,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2597,edible,5,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2598,edible,5,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2599,edible,5,3,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+2600,edible,2,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2601,edible,2,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2602,edible,5,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2603,edible,5,0,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2604,edible,2,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2605,poisonous,5,0,3,no bruises,2,0,1,1,1,6,4,0,2,1,2,1,4,4
+2606,edible,5,0,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2607,edible,2,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2608,edible,5,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2609,edible,5,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2610,edible,5,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2611,edible,2,3,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2612,edible,2,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2613,edible,5,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2614,edible,2,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2615,edible,5,3,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2616,edible,5,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2617,edible,5,3,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2618,edible,5,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2619,edible,5,3,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2620,edible,2,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2621,edible,5,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2622,edible,5,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2623,edible,2,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2624,edible,5,3,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2625,edible,5,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2626,edible,5,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2627,poisonous,5,0,3,no bruises,1,0,1,2,2,7,7,0,2,1,4,3,4,0
+2628,edible,2,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2629,edible,5,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2630,edible,2,2,4,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,0,1
+2631,edible,2,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2632,edible,5,3,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2633,edible,2,3,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2634,edible,5,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2635,edible,2,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2636,edible,5,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2637,edible,5,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2638,edible,2,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2639,edible,5,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2640,edible,2,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2641,edible,5,3,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2642,edible,5,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2643,edible,2,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2644,edible,5,3,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2645,edible,5,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2646,edible,2,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2647,edible,2,0,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+2648,edible,5,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2649,edible,5,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2650,edible,2,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2651,edible,5,0,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2652,edible,5,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2653,edible,2,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2654,edible,5,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2655,edible,2,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2656,edible,5,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2657,edible,5,3,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2658,edible,5,3,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2659,edible,5,0,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2660,edible,5,0,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2661,edible,5,0,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2662,edible,2,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2663,edible,5,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2664,edible,5,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2665,edible,5,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2666,edible,5,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2667,edible,5,0,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2668,edible,5,0,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2669,edible,5,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2670,edible,5,0,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2671,edible,2,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2672,edible,5,0,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2673,edible,2,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2674,edible,2,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2675,edible,2,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2676,edible,5,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2677,edible,5,0,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2678,edible,5,3,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2679,edible,2,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2680,edible,2,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2681,edible,5,3,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2682,edible,2,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2683,poisonous,5,0,5,no bruises,1,0,1,2,2,7,7,0,2,1,4,3,4,0
+2684,edible,5,0,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2685,edible,5,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2686,edible,5,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2687,edible,2,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2688,edible,2,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2689,edible,5,3,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2690,edible,2,2,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,0,1
+2691,edible,5,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2692,edible,5,3,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2693,edible,5,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2694,edible,2,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2695,edible,5,0,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2696,edible,2,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2697,poisonous,5,0,3,no bruises,2,0,1,1,1,0,6,0,2,1,2,1,5,1
+2698,edible,5,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2699,edible,5,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2700,edible,5,0,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2701,edible,5,0,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2702,edible,5,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+2703,edible,2,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2704,edible,2,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2705,edible,5,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2706,edible,5,0,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2707,edible,5,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2708,edible,5,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2709,edible,5,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2710,edible,5,3,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+2711,edible,5,3,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2712,edible,5,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2713,edible,5,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2714,edible,5,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2715,edible,5,3,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2716,edible,5,0,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2717,edible,2,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2718,edible,2,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2719,edible,5,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2720,edible,5,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2721,edible,5,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2722,edible,2,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2723,edible,5,3,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2724,edible,2,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2725,edible,5,3,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2726,edible,5,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2727,edible,5,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2728,edible,2,3,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2729,edible,5,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2730,edible,5,2,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,2,3,1
+2731,edible,2,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2732,edible,5,3,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2733,edible,5,3,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2734,edible,5,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2735,edible,5,0,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2736,edible,5,3,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2737,edible,5,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2738,edible,5,0,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2739,edible,5,3,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2740,edible,5,3,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2741,edible,2,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2742,edible,5,0,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2743,edible,2,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2744,edible,5,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2745,edible,5,0,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2746,edible,5,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2747,edible,5,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2748,edible,5,3,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2749,poisonous,5,0,3,no bruises,1,0,1,2,2,7,7,0,2,1,4,2,4,0
+2750,edible,5,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2751,edible,5,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2752,edible,5,3,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2753,edible,5,3,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2754,edible,5,3,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2755,edible,2,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2756,edible,2,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2757,edible,5,3,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2758,edible,2,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2759,edible,2,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2760,edible,2,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2761,edible,5,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2762,edible,5,3,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2763,edible,5,3,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2764,edible,2,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2765,edible,,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2766,poisonous,5,0,3,no bruises,2,0,1,1,1,0,6,0,2,1,2,1,4,0
+2767,edible,2,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2768,edible,5,3,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2769,edible,5,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2770,poisonous,5,0,3,no bruises,2,0,1,1,1,0,6,0,2,1,2,1,5,0
+2771,edible,2,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2772,edible,5,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2773,edible,5,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2774,edible,5,0,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2775,edible,5,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2776,edible,5,3,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2777,edible,2,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2778,edible,5,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2779,edible,5,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2780,edible,2,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2781,edible,5,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2782,edible,5,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2783,edible,2,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2784,edible,2,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2785,edible,2,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2786,edible,5,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2787,edible,5,3,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2788,edible,2,2,3,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+2789,edible,5,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2790,edible,2,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2791,edible,5,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2792,edible,5,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2793,edible,2,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2794,edible,5,0,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2795,edible,5,0,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2796,edible,5,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2797,poisonous,5,0,8,no bruises,1,0,1,2,2,7,7,0,2,1,4,3,3,0
+2798,edible,5,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2799,edible,5,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2800,edible,5,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2801,edible,2,0,8,no bruises,5,1,3,2,2,7,7,0,2,1,0,3,3,1
+2802,edible,5,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2803,edible,2,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2804,edible,5,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2805,edible,2,3,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2806,edible,5,0,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2807,edible,5,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2808,edible,5,3,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2809,edible,5,0,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2810,edible,2,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2811,edible,2,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2812,edible,5,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2813,edible,5,3,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2814,edible,5,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2815,edible,5,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2816,edible,5,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2817,edible,2,0,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,2,3,1
+2818,edible,5,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2819,edible,5,3,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2820,edible,5,3,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2821,edible,5,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2822,edible,5,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2823,edible,2,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2824,edible,5,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2825,edible,2,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2826,edible,5,0,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2827,edible,2,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2828,edible,5,3,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2829,edible,5,3,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2830,edible,5,3,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2831,edible,5,0,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2832,edible,5,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2833,edible,2,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2834,edible,5,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2835,edible,5,0,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2836,edible,2,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2837,edible,2,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2838,edible,5,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2839,edible,5,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2840,edible,5,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2841,poisonous,5,0,5,no bruises,1,0,1,2,2,7,7,0,2,1,4,2,4,0
+2842,edible,5,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2843,edible,5,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2844,edible,2,2,4,no bruises,5,1,3,0,0,7,7,0,2,1,0,3,3,1
+2845,edible,5,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2846,edible,5,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2847,edible,5,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2848,edible,2,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2849,edible,5,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2850,edible,5,3,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2851,edible,5,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2852,edible,5,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+2853,edible,2,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2854,edible,2,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2855,edible,5,3,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2856,edible,5,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2857,edible,5,3,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2858,edible,2,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2859,edible,5,0,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2860,poisonous,5,2,5,no bruises,1,0,1,2,2,7,7,0,2,1,4,2,3,0
+2861,edible,2,3,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2862,edible,5,3,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2863,edible,5,3,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2864,edible,5,3,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2865,edible,5,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2866,edible,5,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2867,edible,5,3,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+2868,edible,5,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2869,edible,5,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+2870,edible,5,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2871,edible,5,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2872,edible,5,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2873,edible,5,0,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2874,edible,5,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2875,edible,5,3,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2876,edible,2,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2877,edible,2,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2878,edible,2,0,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2879,edible,5,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2880,edible,5,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2881,edible,5,2,8,no bruises,5,1,3,2,0,7,7,0,2,1,0,2,3,1
+2882,edible,5,3,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2883,edible,5,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2884,edible,2,0,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2885,edible,5,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+2886,edible,2,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2887,poisonous,5,2,3,no bruises,1,0,1,2,2,7,7,0,2,1,4,2,4,0
+2888,edible,2,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2889,edible,5,3,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2890,edible,5,0,4,no bruises,5,1,3,2,2,7,7,0,2,1,0,2,0,1
+2891,edible,5,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2892,poisonous,5,0,8,no bruises,1,0,1,2,2,7,7,0,2,1,4,3,4,0
+2893,edible,5,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2894,edible,2,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2895,edible,2,0,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2896,edible,5,3,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2897,edible,2,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2898,edible,5,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2899,edible,2,3,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2900,edible,5,3,,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2901,edible,2,3,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2902,edible,5,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2903,poisonous,5,0,3,no bruises,2,0,1,1,1,4,6,0,2,1,2,1,5,4
+2904,edible,5,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2905,edible,5,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2906,edible,5,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2907,edible,5,0,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2908,edible,5,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2909,edible,5,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2910,edible,2,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2911,edible,5,3,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2912,edible,5,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2913,edible,5,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2914,edible,5,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2915,edible,5,3,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2916,edible,5,3,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2917,edible,2,0,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2918,edible,5,0,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2919,edible,2,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2920,edible,5,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2921,edible,5,3,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+2922,edible,2,0,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2923,edible,5,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2924,edible,5,3,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2925,edible,5,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2926,poisonous,5,0,3,no bruises,2,0,1,1,1,0,4,0,2,1,2,1,5,4
+2927,edible,5,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2928,edible,5,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2929,edible,5,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2930,edible,5,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2931,edible,2,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+2932,edible,5,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2933,edible,5,0,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+2934,edible,5,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+2935,edible,2,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2936,edible,2,0,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2937,poisonous,5,0,3,no bruises,2,0,1,1,1,6,0,0,2,1,2,1,4,4
+2938,edible,5,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2939,edible,5,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2940,edible,5,0,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,4,0
+2941,edible,5,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2942,edible,2,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2943,edible,5,3,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2944,edible,5,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2945,edible,5,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2946,edible,2,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2947,edible,5,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2948,edible,5,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2949,edible,5,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2950,edible,5,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2951,edible,5,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+2952,edible,5,0,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2953,edible,2,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2954,edible,5,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+2955,edible,2,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2956,edible,5,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+2957,edible,5,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+2958,edible,5,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2959,edible,5,0,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+2960,edible,5,0,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+2961,edible,5,3,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+2962,edible,5,3,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2963,edible,2,0,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+2964,edible,5,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+2965,edible,5,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2966,edible,2,0,3,no bruises,5,1,3,0,2,7,7,0,2,1,0,3,3,1
+2967,edible,5,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+2968,edible,5,3,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2969,edible,2,0,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2970,edible,2,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2971,edible,5,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2972,edible,5,3,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,4,0
+2973,edible,5,0,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+2974,edible,2,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,5,0
+2975,edible,5,3,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+2976,edible,5,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+2977,edible,5,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+2978,edible,5,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2979,edible,5,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+2980,edible,5,3,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+2981,edible,5,0,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+2982,edible,5,0,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+2983,edible,5,0,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+2984,edible,5,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+2985,edible,2,3,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2986,edible,5,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2987,edible,5,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2988,edible,5,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,5,0
+2989,edible,2,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2990,poisonous,5,0,3,no bruises,2,0,1,1,1,0,4,0,2,1,2,1,4,0
+2991,edible,5,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2992,edible,5,3,3,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2993,edible,2,0,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+2994,edible,5,0,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+2995,edible,2,0,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+2996,edible,5,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+2997,edible,5,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+2998,edible,5,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+2999,edible,5,3,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,4,0
+3000,edible,5,3,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+3001,poisonous,5,3,9,no bruises,2,0,1,1,1,0,4,0,2,1,2,1,4,4
+3002,edible,2,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+3003,poisonous,5,0,3,no bruises,2,0,1,1,1,0,4,0,2,1,2,1,5,0
+3004,poisonous,5,0,3,no bruises,1,0,1,2,2,7,7,0,2,1,4,2,3,0
+3005,edible,2,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,5,0
+3006,edible,2,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+3007,edible,2,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,5,0
+3008,edible,2,0,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+3009,poisonous,5,0,3,no bruises,2,0,1,1,1,6,6,0,2,1,2,1,5,4
+3010,edible,2,0,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+3011,edible,2,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+3012,edible,2,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+3013,poisonous,5,0,8,no bruises,1,0,1,2,2,7,7,0,2,1,4,3,3,0
+3014,edible,5,0,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+3015,edible,2,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+3016,poisonous,5,0,3,no bruises,2,0,1,1,1,6,4,0,2,1,2,1,4,1
+3017,poisonous,5,0,3,no bruises,2,0,1,1,1,6,0,0,2,1,2,1,5,4
+3018,edible,2,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+3019,edible,2,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+3020,edible,2,0,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+3021,edible,2,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+3022,edible,2,0,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+3023,edible,2,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,4,0
+3024,edible,2,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+3025,edible,2,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+3026,poisonous,5,0,5,no bruises,1,0,1,2,2,7,7,0,2,1,4,2,3,0
+3027,poisonous,5,0,3,no bruises,2,0,1,1,1,4,0,0,2,1,2,1,5,0
+3028,edible,2,0,2,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+3029,edible,2,3,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+3030,edible,2,3,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,4,0
+3031,edible,2,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,3,5,0
+3032,edible,2,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+3033,edible,,3,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,3,4,0
+3034,poisonous,2,0,3,no bruises,2,0,1,1,1,0,6,0,2,1,2,1,4,4
+3035,edible,2,3,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+3036,edible,2,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+3037,poisonous,5,0,3,no bruises,1,0,1,2,2,7,7,0,2,1,4,3,3,0
+3038,edible,2,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+3039,edible,2,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+3040,poisonous,5,3,9,no bruises,2,0,1,1,1,0,6,0,2,1,2,1,4,1
+3041,poisonous,2,0,9,no bruises,2,0,1,1,1,6,6,0,2,1,2,1,4,0
+3042,edible,2,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+3043,edible,2,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
+3044,edible,2,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+3045,edible,2,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+3046,edible,5,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+3047,poisonous,5,2,5,no bruises,1,0,1,2,2,7,7,0,2,1,4,3,4,0
+3048,edible,2,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+3049,edible,5,3,2,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+3050,edible,2,0,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+3051,edible,2,3,4,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,4,0
+3052,poisonous,5,2,8,no bruises,1,0,1,2,2,7,7,0,2,1,4,2,4,0
+3053,edible,2,0,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,4,0
+3054,edible,2,3,3,bruises is there,5,1,1,2,2,3,6,0,2,1,4,3,5,0
+3055,edible,2,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+3056,edible,2,3,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+3057,poisonous,5,2,3,no bruises,1,0,1,2,2,7,7,0,2,1,4,3,3,0
+3058,poisonous,5,0,5,no bruises,1,0,1,2,2,7,7,0,2,1,4,2,3,0
+3059,edible,2,3,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+3060,poisonous,5,0,3,no bruises,2,0,1,1,1,6,4,0,2,1,2,1,5,0
+3061,poisonous,5,2,8,no bruises,1,0,1,2,2,7,7,0,2,1,4,2,4,0
+3062,poisonous,5,0,3,no bruises,2,0,1,1,1,0,0,0,2,1,2,1,4,4
+3063,edible,2,3,4,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+3064,poisonous,5,3,9,no bruises,2,0,1,1,1,4,0,0,2,1,2,1,5,4
+3065,edible,2,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,4,0
+3066,edible,2,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+3067,edible,2,3,3,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,5,0
+3068,poisonous,5,2,8,no bruises,1,0,1,2,2,7,7,0,2,1,4,3,3,0
+3069,poisonous,5,0,3,no bruises,2,0,1,1,1,4,0,0,2,1,2,1,4,4
+3070,edible,2,3,3,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+3071,edible,5,3,4,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,5,0
+3072,edible,2,3,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,5,0
+3073,poisonous,5,0,3,no bruises,2,0,1,1,1,4,6,0,2,1,2,1,4,4
+3074,edible,2,3,4,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+3075,poisonous,2,0,3,no bruises,2,0,1,1,1,6,0,0,2,1,2,1,5,4
+3076,edible,2,0,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+3077,edible,5,0,4,bruises is there,5,1,1,2,2,7,7,0,2,1,4,2,4,0
+3078,poisonous,2,0,3,no bruises,2,0,1,1,1,6,0,0,2,1,2,1,4,4
+3079,edible,2,3,3,bruises is there,5,1,1,2,2,6,7,0,2,1,4,2,4,0
+3080,edible,2,3,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+3081,edible,2,3,2,bruises is there,5,1,1,2,2,6,3,0,2,1,4,3,5,0
+3082,poisonous,5,0,3,no bruises,2,0,1,1,1,6,6,0,2,1,2,1,4,4
+3083,edible,2,0,2,bruises is there,5,1,1,2,2,7,7,0,2,1,4,3,4,0
+3084,edible,2,3,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+3085,poisonous,5,0,3,no bruises,2,0,1,1,1,4,6,0,2,1,2,1,4,1
+3086,edible,2,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+3087,poisonous,5,0,3,no bruises,2,0,1,1,1,6,0,0,2,1,2,1,5,0
+3088,edible,2,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,3,5,0
+3089,poisonous,5,0,3,no bruises,2,0,1,1,1,0,4,0,2,1,2,1,5,1
+3090,poisonous,5,0,3,no bruises,2,0,1,1,1,4,6,0,2,1,2,1,5,4
+3091,poisonous,5,0,3,no bruises,2,0,1,1,1,0,0,0,2,1,2,1,5,1
+3092,edible,2,3,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+3093,poisonous,5,0,3,no bruises,2,0,1,1,1,4,0,0,2,1,2,1,4,1
+3094,edible,2,0,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+3095,poisonous,5,2,3,no bruises,1,0,1,2,2,7,7,0,2,1,4,3,4,0
+3096,edible,2,3,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,4,0
+3097,poisonous,5,2,5,no bruises,1,0,1,2,2,7,7,0,2,1,4,3,3,0
+3098,edible,2,0,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+3099,edible,2,0,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,3,5,0
+3100,edible,2,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+3101,edible,2,3,4,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+3102,poisonous,5,0,3,no bruises,2,0,1,1,1,0,6,0,2,1,2,1,5,1
+3103,poisonous,2,0,9,no bruises,2,0,1,1,1,4,4,0,2,1,2,1,5,4
+3104,poisonous,5,2,3,no bruises,1,0,1,2,2,7,7,0,2,1,4,2,3,0
+3105,edible,2,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+3106,edible,2,0,2,bruises is there,5,1,1,2,2,3,3,0,2,1,4,2,5,0
+3107,edible,2,3,2,bruises is there,5,1,1,2,2,6,6,0,2,1,4,2,4,0
+3108,edible,2,3,4,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+3109,poisonous,5,0,3,no bruises,2,0,1,1,1,6,0,0,2,1,2,1,4,1
+3110,poisonous,5,0,3,no bruises,1,0,1,2,2,7,7,0,2,1,4,2,4,0
+3111,edible,2,0,3,bruises is there,5,1,1,2,2,7,6,0,2,1,4,2,5,0
+3112,edible,2,3,2,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,4,0
+3113,edible,2,3,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+3114,edible,2,0,3,bruises is there,5,1,1,2,2,6,6,0,2,1,4,3,4,0
+3115,edible,2,3,4,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,5,0
+3116,edible,2,3,4,bruises is there,5,1,1,2,2,3,7,0,2,1,4,2,5,0
+3117,edible,2,0,2,bruises is there,5,1,1,2,2,3,6,0,2,1,4,2,4,0
+3118,poisonous,5,2,3,no bruises,1,0,1,2,2,7,7,0,2,1,4,2,4,0
+3119,poisonous,5,0,,no bruises,1,0,1,2,2,7,7,0,2,1,4,3,4,0
+3120,edible,2,0,3,bruises is there,5,1,1,2,2,6,3,0,2,1,4,2,5,0
+3121,edible,2,3,3,bruises is there,5,1,1,2,2,3,7,0,2,1,4,3,5,0
+3122,poisonous,5,0,3,no bruises,2,0,1,1,1,4,0,0,2,1,2,1,5,0
+3123,edible,5,3,2,bruises is there,5,1,1,2,2,7,3,0,2,1,4,2,4,0
